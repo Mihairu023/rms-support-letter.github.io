@@ -72,3 +72,6 @@ To sign without using Github, you can:
 - Send a signed patch to [signrms@prog.cf](mailto:signrms@prog.cf) 
 - Or to [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
 - Or add your signature here: [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1)
+
+name: Michael "Mihairu023" Kolesnikov
+link: https://github.com/Mihairu023/rms-support-letter.github.io/
